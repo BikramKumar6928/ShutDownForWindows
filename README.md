@@ -5,7 +5,7 @@ An executable is also attached with the project who just want to use it.
 Directions:
 All the directions will be printed on the command screen. But for reference, here they are:
    --------------------------------------------------------------------------
-	|                            Made by Bikram Kumar                          | <-- Yup,   that's my name.
+	|                            Made by Bikram Kumar                          |
 	|This program can help you to shutdown your PC after a specified           |
 	|                                 time-interval                            |
 	|1. Type 'xhymzs' (here x,y,z are integers making the PC to shutdown after |
